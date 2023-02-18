@@ -1,0 +1,4 @@
+UOB_LoginmultiTest_TC002_Valid SignIn_CSR User@@@@@CHROME - WINDOWS@@@@@20230205_113950@@@@@Test Case --->PM0-13456@@@@@TC002_login Scenario@@@@@PASS@@@@@C:\Users\Deepika\Downloads\com-sfdc-automation\com-sfdc-automation\Reports\Screenshots\20230205_113950.jpg
+UOB_LoginmultiTest_TC002_Valid SignIn_CSR User@@@@@@@@@@20230205_113951@@@@@Page URL  --->for uob is launched@@@@@NO DATA@@@@@PASS@@@@@C:\Users\Deepika\Downloads\com-sfdc-automation\com-sfdc-automation\Reports\Screenshots\20230205_113951.jpg
+UOB_LoginmultiTest_TC002_Valid SignIn_CSR User@@@@@@@@@@20230205_113951@@@@@Page title is Verified@@@@@NO DATA@@@@@PASS@@@@@C:\Users\Deepika\Downloads\com-sfdc-automation\com-sfdc-automation\Reports\Screenshots\20230205_113951.jpg
+UOB_LoginmultiTest_TC002_Valid SignIn_CSR User@@@@@@@@@@20230205_113954@@@@@Set Value--->Enter Valid Username@@@@@Deepika@@@@@PASS@@@@@C:\Users\Deepika\Downloads\com-sfdc-automation\com-sfdc-automation\Reports\Screenshots\20230205_113954.jpg

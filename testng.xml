@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" thread-count="1">
+	<test name="Test">
+		<classes>
+
+			<!-- class name="com.sfdc.automation.tests.LoginTest"/ -->
+		
+			<class name="com.uob.automation.tests.UOB_LoginmultiTest" />
+			
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

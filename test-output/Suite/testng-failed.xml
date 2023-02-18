@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT"
+	name="Failed suite [Suite]">
+	<test name="Test(failed)">
+		<classes>
+			<class name="com.upc.automation.tests.OrderingAlertsTest">
+				<methods>
+					<include name="tearDown" />
+					<include name="afterTest" />
+					<include name="createReports" />
+					<include name="setUp" />
+					<include name="baseSetUp" />
+					<include name="deliveryAlertsTest" />
+				</methods>
+			</class> <!-- com.upc.automation.tests.OrderingAlertsTest -->
+			<class name="com.upc.automation.tests.AlertSettingsTest">
+				<methods>
+					<include name="tearDown" />
+					<include name="createReports" />
+					<include name="setUp" />
+					<include name="baseSetUp" />
+					<include name="afterTest" />
+					<include name="alertSettingTest" />
+				</methods>
+			</class> <!-- com.upc.automation.tests.AlertSettingsTest -->
+			<class name="com.upc.automation.tests.SingleCustNoDeptTest">
+				<methods>
+					<include name="singleCustNoDeptTest" />
+					<include name="tearDown" />
+					<include name="createReports" />
+					<include name="setUp" />
+					<include name="baseSetUp" />
+					<include name="afterTest" />
+				</methods>
+			</class> <!-- com.upc.automation.tests.SingleCustNoDeptTest -->
+			<class name="com.upc.automation.tests.CustomerDepartmentsTest">
+				<methods>
+					<include name="customerDepartmentsTest" />
+					<include name="tearDown" />
+					<include name="afterTest" />
+					<include name="createReports" />
+					<include name="setUp" />
+					<include name="baseSetUp" />
+				</methods>
+			</class> <!-- com.upc.automation.tests.CustomerDepartmentsTest -->
+		</classes>
+	</test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

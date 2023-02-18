@@ -1,0 +1,2 @@
+UOB_LoginmultiTest_TC001_Valid SignIn_CSR User@@@@@CHROME - WINDOWS@@@@@20210207_122716@@@@@Test Case --->PM0-13456@@@@@TC001_login Scenario@@@@@PASS@@@@@C:\Users\Deepika\Downloads\com-sfdc-automation-20200203T164210Z-001\com-sfdc-automation\Reports\Screenshots\20210207_122716.jpg
+UOB_LoginmultiTest_TC001_Valid SignIn_CSR User@@@@@CHROME - WINDOWS@@@@@20210207_122719@@@@@Page URL  --->for uob is launched@@@@@NO DATA@@@@@PASS@@@@@C:\Users\Deepika\Downloads\com-sfdc-automation-20200203T164210Z-001\com-sfdc-automation\Reports\Screenshots\20210207_122719.jpg
