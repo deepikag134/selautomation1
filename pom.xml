@@ -146,6 +146,7 @@
 			<artifactId>eyes-connectivity-java3-jersey2x</artifactId>
 			<version>${eyes.version}</version>
 		</dependency>
+		
 		<dependency>
 			<groupId>com.applitools</groupId>
 			<artifactId>eyes-sdk-core-java3-jersey2x</artifactId>
